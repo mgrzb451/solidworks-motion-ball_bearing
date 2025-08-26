@@ -1,0 +1,1 @@
+# solidworks-motion-ball_bearing
